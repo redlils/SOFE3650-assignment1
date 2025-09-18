@@ -7,6 +7,7 @@
 | ------------ |------------|------------------------------------------------------|------------------------|
 | Lily Redpath | 100862425  | [@redlils](https://github.com/redlils)               |  Java Code & README.md |
 | Jonathan Leaper | 100924543 | [@JonathanLeaper](https://github.com/jonathanleaper) | UML Diagram            |
+| Vlad Stetca | 100922080 | .[@Vluby2](https://github.com/Vluby2)                     |  Test Cases     |
 
 ## Repository Layout
 The repository layout is set up as the following:
