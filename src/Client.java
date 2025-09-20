@@ -9,7 +9,7 @@ public class Client {
         System.out.println("`brandABulbProduct`: " + brandABulbProduct.toString());
         System.out.println("`brandBLockProduct`: " + brandBLockProduct.toString());
 
-        brandABulbProduct.getBrandName();
-        brandBLockProduct.getBrandName();
+        System.out.println(brandABulbProduct.getBrandName());
+        System.out.println(brandBLockProduct.getBrandName());
     }
 }
