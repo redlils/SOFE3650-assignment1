@@ -9,10 +9,10 @@ public class Client {
         BrandBLockProduct brandBLockProduct = (BrandBLockProduct) brandBFactory.createLockProduct();
         BrandBBulbProduct brandBBulbProduct = (BrandBBulbProduct) brandBFactory.createBulbProduct();
 
-        System.out.println("`brandABulbProduct`: " + brandABulbProduct.toString());
-        System.out.println("`brandBBulbProduct`: " + brandBBulbProduct.toString());
-        System.out.println("`brandALockProduct`: " + brandALockProduct.toString());
-        System.out.println("`brandBLockProduct`: " + brandBLockProduct.toString());
+        System.out.println("`brandABulbProduct`: " + brandABulbProduct);
+        System.out.println("`brandBBulbProduct`: " + brandBBulbProduct);
+        System.out.println("`brandALockProduct`: " + brandALockProduct);
+        System.out.println("`brandBLockProduct`: " + brandBLockProduct);
 
         System.out.println(brandABulbProduct.getBrandName());
         System.out.println(brandBBulbProduct.getBrandName());
