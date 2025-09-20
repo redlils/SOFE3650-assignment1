@@ -10,6 +10,6 @@ public class Client {
         System.out.println("`brandBLockProduct`: " + brandBLockProduct.toString());
 
         brandABulbProduct.getBrandName();
-        brandBBulbProduct.getBrandName();
+        brandBLockProduct.getBrandName();
     }
 }
