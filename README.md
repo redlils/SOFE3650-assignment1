@@ -29,6 +29,7 @@ This project was created using Java 21, but will most likely run using other ver
 To run, either use an IDE such as IntelliJ or Eclipse and run the `Client` file, or use the following command;
 ```bash
 cd src
+javac *.java
 java Client.java
 ```
 
